@@ -32,10 +32,8 @@
     <!-- Tombol Aksi + Toggle -->
     <div class="flex items-center md:order-2 space-x-2">
       <button class="flex items-center gap-2 bg-amber-500 hover:bg-amber-600 text-white px-4 py-2 rounded-lg text-sm transition">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 16l4-4m0 0l-4-4m4 4H7" />
-        </svg>
-        Log out
+        
+        Welcome to Our Cafe
       </button>
       <button id="nav-toggle" class="md:hidden text-gray-700 dark:text-white hover:text-amber-500 focus:outline-none">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
